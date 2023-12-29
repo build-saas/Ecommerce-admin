@@ -23,11 +23,11 @@
 - To get started with the project, follow these steps:
 
 ### Clone the repository:
-    git clone https://github.com/your-username/ecommerce-admin-and-store.git
+    git clone https://github.com/harshsahu12/Ecommerce-admin.git
     
 ### Install dependencies:
 
-    cd ecommerce-admin-and-store
+    cd Ecommerce-admin
     npm install
     
 ### Set up your environment variables:
