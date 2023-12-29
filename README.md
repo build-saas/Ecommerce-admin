@@ -20,27 +20,27 @@
 ## Getting Started
 - To get started with the project, follow these steps:
 
-# Clone the repository:
+### Clone the repository:
     git clone https://github.com/your-username/ecommerce-admin-and-store.git
     
-# Install dependencies:
+### Install dependencies:
 
     cd ecommerce-admin-and-store
     npm install
     
-# Set up your environment variables:
+### Set up your environment variables:
 - Create a .env file in the root directory and add the necessary environment variables, including your Stripe API key.
 
-# Run the development server:
+### Run the development server:
 
     npm run dev
     
 - Open your browser and navigate to http://localhost:3000 to access the application.
 
-# Contributing
+## Contributing
 - We welcome contributions from the community. If you find any issues or have ideas for improvements, please open an issue or submit a pull request.
 
-# License
+## License
 - This project is licensed under the MIT License.
 
 - Feel free to reach out if you have any questions or need assistance. Happy coding!
