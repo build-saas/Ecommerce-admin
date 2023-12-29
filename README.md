@@ -2,7 +2,7 @@
 
 ### Welcome to the Ecommerce Admin and Store project! This application empowers users to create their own online stores, customize products, and manage sales through a user-friendly dashboard. Built with Next.js, Prisma, TypeScript, Shadcn, and Stripe, this project combines modern technologies to provide a seamless and efficient ecommerce experience.
 
- <img src="https://github.com/harshsahu12/Ecommerce-admin/assets/129574323/55f48301-16aa-4074-8c50-689e5cca56ec" width="500" />
+ <img src="https://github.com/harshsahu12/Ecommerce-admin/assets/129574323/55f48301-16aa-4074-8c50-689e5cca56ec" width="800" />
 
 ## Features
 
